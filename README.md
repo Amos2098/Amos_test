@@ -1,2 +1,3 @@
 # Amos_test
+Some info...
 Just for testing~~
